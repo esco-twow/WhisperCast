@@ -339,8 +339,8 @@ WhisperCast_SpellLibrary = {
 	    rank = { 60 }
         },
     {
-            spell = WCLocale.PALADIN.Greater_Blessing_of_Protection,
-            trigger = WCLocale.PALADIN.Greater_Blessing_of_Protection_trigger,
+            spell = WCLocale.PALADIN.Blessing_of_Protection,
+            trigger = WCLocale.PALADIN.Blessing_of_Protection_trigger,
             level = 60,
 	    cooldowncheck = 0,
 	    rank = { 60 }
