@@ -1,7 +1,8 @@
-WhisperCast_Version = "3.0"
+WhisperCast_Version = "3.0.1"
 
 -- Recode by Sarris of Blackhand, originally by Valconeye
 -- Original BestBuff by Gello
+-- Updated by Esco to add BOP for paladins
 
 WHISPERCAST_ADDON_PATH = "Interface\\AddOns\\WhisperCast\\"
 

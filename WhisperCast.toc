@@ -1,5 +1,5 @@
 ## Interface: 11000
-## Title: WhisperCast v3.0
+## Title: WhisperCast v3.0.1
 ## Author: Valconeye@warcraftwars.com
 ## Notes: Queue buff/cure spell casts based on group members whispering to you
 ## SavedVariables: WhisperCast_Profile

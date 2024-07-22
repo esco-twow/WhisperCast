@@ -23,6 +23,7 @@ PALADIN
 'Blessing of Might' = 'might'
 'Blessing of Light' = 'light'
 'Blessing of Freedom' = 'freedom'
+'Blessing of Protection' = 'protection', 'bop', 'bubble', 'blessing of protection'
 
 MAGE
 'Amplify Magic' = 'amplify'
